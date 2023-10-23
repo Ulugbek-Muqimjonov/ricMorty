@@ -1,0 +1,6 @@
+Autor:Muqimjonov Ulug'bek;
+project:Rick Morty Free API;
+country:UZB;
+age:19
+data:2023-10-23
+time:21:18
